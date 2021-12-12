@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439004014246",
+    "firebase_url": "https://whatsapp-52bdf-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-52bdf",
+    "storage_bucket": "whatsapp-52bdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439004014246:android:22c0ff5ac1010aedd23667",
+        "android_client_info": {
+          "package_name": "com.cs246.group10.edson.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439004014246-qbv89k81o1bbekcn7p9vdnj6hsq4uoi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cs246.group10.edson.chat",
+            "certificate_hash": "e7cae89b4f4d269ffcc0ac67c5dfa91dbc4aa519"
+          }
+        },
+        {
+          "client_id": "439004014246-8js2v1vrr5lf99s9iie2qdcddc0kcnb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7dqnc0ttCa-WX2VZP15bBEuqkGaQXjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439004014246-8js2v1vrr5lf99s9iie2qdcddc0kcnb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
